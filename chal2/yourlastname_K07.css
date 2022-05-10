@@ -1,0 +1,30 @@
+body{
+    border: 5px solid brown;
+   
+}
+#boxA p{
+    width:10;
+    text-align: center;
+    margin:15px auto;
+    background-color: #FFD;
+    border: 5px dashed  #F4A460;
+    padding:1.5em;
+    justify-content: center;
+    max-width: 40%;
+}
+#boxB p{
+    width:25em;
+    border-top:  10px double darkslategray;
+    border-bottom:  10px double darkslategray;
+    background-color: #DFF;
+    padding: 2em  20px;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 20px ;
+}
+#boxC p{
+    margin: 2em 150px 1em 500px;
+    border: 1em ridge lightsalmon;
+    padding: 30px;
+    background-color: burlywood;
+}
